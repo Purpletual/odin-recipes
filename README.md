@@ -1,2 +1,2 @@
 # odin-recipes
-A basic implementation of a recipe website. 
+A basic implementation of a recipe website using HTML
